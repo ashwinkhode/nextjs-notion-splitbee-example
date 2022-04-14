@@ -14,3 +14,12 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.notion-page-icon-hero {
+  left: 10% !important;
+}
+
+.notion-app,
+.notion-header {
+  background-color: #16191b !important;
+}
